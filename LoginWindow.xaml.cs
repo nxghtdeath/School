@@ -16,9 +16,8 @@ using System.Windows.Shapes;
 
 namespace SchoolApp
 {
-    /// <summary>
-    /// Логика взаимодействия для LoginWindow.xaml
-    /// </summary>
+    //1111111111111111111111111111111111111111111111
+
     public partial class LoginWindow : Window
     {
         private string connectionString = ConfigurationManager.ConnectionStrings["SchoolDBConnection"].ConnectionString;
